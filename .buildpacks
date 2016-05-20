@@ -1,2 +1,1 @@
-#https://github.com/heroku/heroku-buildpack-static
-#log_level: debug
+https://github.com/heroku/heroku-buildpack-static
